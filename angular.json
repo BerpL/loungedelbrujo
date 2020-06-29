@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "loungedelbrujo"
+    }
+  },
+  "defaultProject": "loungedelbrujo",
+  "cli": {
+    "analytics": "2b70eeb7-5354-419b-a29b-c160c00eb268"
+  }
 }
